@@ -1,0 +1,107 @@
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Ubuntu&display=swap');
+
+body{
+    font-family: 'Montserrat-black', sans-serif;
+}
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+.titlemsg{
+    font-family: 'Montserrat-black', sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: 900;
+    margin: 12% auto 5% auto;
+    
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar-brand{
+    font-family: 'ubuntu', sans-serif;
+    font-size: 2.5rem;
+    line-height: 1.0;
+    font-weight: bold;
+}
+.iphone-mockup{
+    width: 60%;
+    margin: 10% auto 0%;
+    transform: rotate(30deg)
+}
+.nav-link{
+    font-size: 1.3rem;
+    margin: auto 1.3rem;
+    font-family: 'Montserrat-light', sans-serif;
+}
+.download-btn{
+    font-size: 145%;
+    margin-left: 1px;
+}
+.icon-img{
+    font-size: 600%;
+    margin-bottom: 3%;
+    color: #ef8172;
+}
+.icon-img:hover{
+    color: #ff4c68;
+    transition: 0.4s;
+}
+.icon-body{
+    text-align: center;
+    margin: 10% auto 10%;
+}
+.img-title{
+    font-family: 'Montserrat-bold', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.img-p{
+    font-family: 'Montserrat-black', sans-serif;
+    font-size: 1.0rem;
+    font-weight: 600;
+    color: #8f8f8f;
+}
+#testimonials{
+    text-align: center;
+    background-color:#ef8172;
+    color: #fff;
+}
+.test-title{
+    font-size: 3rem;
+    font-family: 'Montserrat-bold', sans-serif;
+    line-height: 1.5;
+    font-weight: bold;
+}
+.test-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#press{
+    background-color:#ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.img-press{
+    width: 10%;
+    margin: 20px 20px 50px;
+}
+.price-tags{
+
+}
+.pricing-cards{
+    text-align: center;
+}
+.signup-button{
+    font-size: 150%;
+    width: 100%;
+}
+#pricing{
+    padding: 100px;
+}
