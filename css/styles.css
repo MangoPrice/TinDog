@@ -20,15 +20,26 @@ body {
 #press {
   background-color: #ef8172;
   text-align: center;
-  padding-bottom: 3%;
+  padding-bottom: 2%;
 }
 #pricing {
-  padding: 100px;
+  padding: 120px;
   text-align: center;
 }
 #features {
   background-color: #fff;
   position: relative;
+}
+#cta {
+  background-color: #ff4c68;
+  padding: 100px 50px;
+}
+#footer {
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 1%;
+  background-color: #fff;
+  margin-bottom: 30px;
 }
 
 /* Navbar */
@@ -142,6 +153,45 @@ body {
 .signup-button {
   font-size: 150%;
   width: 100%;
+}
+
+/* Call to Action Classes */
+
+.cta-title {
+  text-align: center;
+  font-family: "Montserrat-black", sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: 900;
+  margin: 60px 50px 60px;
+  padding: 60px 300px 5px;
+  color: #fff;
+}
+.download-cta {
+  margin-top: 80px;
+  text-align: center;
+}
+.download-cta-apple {
+  text-align: center;
+  font-size: 145%;
+}
+.download-cta-play {
+  text-align: center;
+  font-size: 145%;
+}
+
+/* footer classes */
+
+.footer-icons {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+
+}
+.copyright-p {
+  font-family: "Montserrat-black", sans-serif;
+  font-size: 1.2rem;
+  color: #8f8f8f;
 }
 
 /* Media Breaks */
