@@ -33,12 +33,13 @@ body {
 }
 #cta {
   background-color: #ff4c68;
-  padding: 100px 50px;
+  padding: 40px 50px;
+  margin-top: 0;
 }
 #footer {
   text-align: center;
   padding-top: 5%;
-  padding-bottom: 4.1%;
+  padding-bottom: 2%;
   background-color: #fff;
   margin-bottom: 30px;
 }
@@ -189,12 +190,12 @@ body {
   font-size: 4rem;
   line-height: 1.5;
   font-weight: 900;
-  margin: 0 50px 60px;
-  padding: 60px 300px 5px;
+  padding: 7% 15% 4%;
   color: #fff;
 }
 .download-cta {
-  margin-top: 80px;
+  margin-top: 10px;
+  margin-bottom: 25px;
   text-align: center;
 }
 .download-cta-apple {
